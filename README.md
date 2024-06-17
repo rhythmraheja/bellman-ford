@@ -11,3 +11,4 @@ Once the shortest paths have been calculated, the algorithm could be used to det
 Overall, using the Bellman-Ford algorithm in a tours and travel project would help to optimize travel routes and minimize costs, making it easier for users to plan their trips and get the most out of their travel experiences.
 
 ![image](https://github.com/rhythmraheja/bellman-ford/assets/172781026/58327e54-549b-46d2-9ec9-3b0f3ffda25d)
+![image](https://github.com/rhythmraheja/bellman-ford/assets/172781026/6ac95e19-3229-4292-b183-5b9869c203e8)
